@@ -1,7 +1,7 @@
 # 🍍 PineaPHPle
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PineaPHPle/.github/main/profile/logo.jpg" alt="PineaPHPle Logo" width="200" height="200" onerror="this.style.display='none'">
+  <img src="https://raw.githubusercontent.com/PineaPHPle/.github/main/profile/logo.png" alt="PineaPHPle Logo" width="200" height="200" onerror="this.style.display='none'">
   <h3>Deliciously Crafted PHP Packages</h3>
 </div>
 
